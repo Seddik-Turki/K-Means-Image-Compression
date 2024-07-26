@@ -2,6 +2,7 @@
 
 This project demonstrates image compression using K-Means clustering.
 The Jupyter notebook contains the implementation and results.
+I have put some images in the images folder to to try the compression method
 
 ## Project Description
 
